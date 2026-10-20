@@ -1,4 +1,4 @@
-message = "Ha I changed the messeage now we have a conflict in ACM!"
+message = "Hello everyone in ACM!, I changed the messeage now we have no conflicts in ACM!"
 members = ["Alex", "Jordan", "Sam"]
 
 print(message)
