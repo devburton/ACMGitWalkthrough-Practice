@@ -1,5 +1,5 @@
 message = "Hello everyone in ACM!"
-members = ["Alex", "Jordan", "Sam"]
+members = ["Alex", "Billy" "Jordan", "Sam"]
 
 print(message)
 print("Members:")
